@@ -20,7 +20,3 @@ The application allows user interactions via a graphical interface and stores th
 2. Each action is captured in the Java program.
 3. The action is logged into the Oracle Database for tracking.
 
-## Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/remote-control-car-gui.git
