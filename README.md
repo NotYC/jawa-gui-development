@@ -13,10 +13,11 @@ The application allows user interactions via a graphical interface and stores th
 - **Frontend (GUI):** Java Swing, `.form` designer
 - **Backend:** Java
 - **Database:** Oracle Database
-- **IDE/Tools:** NetBeans (for GUI form design), Oracle SQL Developer (for DB management)
+- **IDE/Tools:** IntelliJ IDEA (IDE), Oracle SQL (for DB management)
 
 ## How It Works
 1. User interacts with the GUI to control the car.
 2. Each action is captured in the Java program.
 3. The action is logged into the Oracle Database for tracking.
+4. User is authenticated and authorized with Oracle DB
 
